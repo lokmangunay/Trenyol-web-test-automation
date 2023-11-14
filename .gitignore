@@ -155,4 +155,4 @@ Temporary Items
 /logs
 /reports
 
-src/test/resources/ConfigAppInfo.properties
+src/test/resources/ConfigBrowserSetup.properties

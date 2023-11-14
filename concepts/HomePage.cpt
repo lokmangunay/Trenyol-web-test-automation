@@ -1,0 +1,19 @@
+Created by testinium on 14.11.2023
+
+This is a concept file with following syntax for each concept.
+# Close Gender Pop up at HomePage
+* If element exists clicks on the "CLOSE_GENDER_POP_UP" by javascript in "Common Elements"
+
+#Accept Cookies at HomePage
+*If element exists clicks on the "ACCEPT_COOKIES" by javascript in "Common Elements"
+
+#Check if home page is opened
+* Check if url equals to text "https://www.trendyol.com/" in "Home Page"
+* The keys should visible on the the current page with table
+|Key                    |Page Name|
+| TRENDYOL_LOGO         |Home Page|
+| NAVIGATION_WRAPPER    |Home Page|
+
+# User Go to basket
+* Click to element "MY_BASKET_BUTTON" in "Home Page"
+* If exist click to element "TOOL_TIP_CONTEXT" in "Basket Page"
